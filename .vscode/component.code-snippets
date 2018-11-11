@@ -1,0 +1,35 @@
+[
+    {
+        "prefix": ["render-function"],
+        "body": [
+            "import React from \"react\";",
+            "",
+            "export const ${TM_FILENAME_BASE} = ({}) => {",
+            "  return(",
+            "  <div>",
+            "    <ul>",
+            "      <li>Footer Information</li>",
+            "    </ul>",
+            "  </div>",
+            "  )",
+            "}"
+        ],
+        "description": "Render function",
+        "scope": "javascript,javascriptreact"
+    },
+    {
+        "prefix": ["pure-component"],
+        "body": [
+            "import React, { PureComponent } from \"react\";",
+            "",
+            "export class ${TM_FILENAME_BASE} extends PureComponent {",
+            "    render() {",
+            "        return <div>Allo!</div>;",
+            "    }",
+            "}",
+            ""
+        ],
+        "description": "Pure Component",
+        "scope": "javascript,javascriptreact"
+    }
+]

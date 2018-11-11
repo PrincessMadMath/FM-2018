@@ -1,0 +1,12 @@
+[
+    {
+        "question": "Multiple - Question #1",
+        "answer": "answer",
+        "others": ["no", "nop!", "sup!"]
+    },
+    {
+        "question": "Multiple - Question #2",
+        "answer": "answer",
+        "others": ["no", "nop!", "sup!"]
+    }
+]
