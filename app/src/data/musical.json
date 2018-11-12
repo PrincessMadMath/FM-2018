@@ -3,5 +3,100 @@
         "question": "Which TV series?",
         "answer": "final space",
         "fileName": "final-space.mp3"
+    },
+    {
+        "question": "Which TV series?",
+        "answer": "Disenchantment",
+        "fileName": "disenchantment.mp3"
+    },
+    {
+        "question": "Which TV series?",
+        "answer": "Sevent Deadly Sins",
+        "fileName": "seven.mp3"
+    },
+    {
+        "question": "Which TV series?",
+        "answer": "Chuck",
+        "fileName": "chuck.mp3"
+    },
+    {
+        "question": "Which TV series?",
+        "answer": "This Is Us",
+        "fileName": "us.mp3"
+    },
+    {
+        "question": "Which TV series?",
+        "answer": "Brooklyn Nine-Nine",
+        "fileName": "ninenine.mp3"
+    },
+    {
+        "question": "Which TV series?",
+        "answer": "Grey's Anatomy",
+        "fileName": "grey.mp3"
+    },
+    {
+        "question": "Which TV series?",
+        "answer": "The Good Place",
+        "fileName": "good.mp3"
+    },
+    {
+        "question": "Which TV series?",
+        "answer": "New Girl",
+        "fileName": "girl.mp3"
+    },
+    {
+        "question": "Which TV series?",
+        "answer": "Attack on Titan",
+        "fileName": "titan.mp3"
+    },
+    {
+        "question": "Which Movie?",
+        "answer": "Coco",
+        "fileName": "coco.mp3"
+    },
+    {
+        "question": "Which Movie?",
+        "answer": "Mohana",
+        "fileName": "mohana.mp3"
+    },
+    {
+        "question": "Which movie francise?",
+        "answer": "Hotel Transylvania",
+        "fileName": "hotel.mp3"
+    },
+    {
+        "question": "Which movie?",
+        "answer": "How to train your dragon",
+        "fileName": "dragon.mp3"
+    },
+    {
+        "question": "Which movie? (short name)",
+        "answer": "Fantastic Beasts",
+        "fileName": "fantastic.mp3"
+    },
+    {
+        "question": "Which movie?",
+        "answer": "Secret life of pets",
+        "fileName": "pet.mp3"
+    },
+    {
+        "question": "Which movie?",
+        "answer": "Zootopia",
+        "fileName": "zoo.mp3"
+    },
+    {
+        "question": "Which movie series?",
+        "answer": "James Bond",
+        "fileName": "007.mp3"
+    },
+    {
+        "question": "Which movie?",
+        "answer": "Titanic",
+        "fileName": "titanic.mp3"
+    },
+    {
+        "question": "Song name song?",
+        "answer": "Darude",
+        "fileName": "darude.mp3"
     }
 ]

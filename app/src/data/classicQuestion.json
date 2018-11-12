@@ -1,10 +1,82 @@
 [
     {
-        "question": "Classic Question #1",
-        "answer": "answer"
+        "question": "How many sisters does Joey have?",
+        "answer": "7"
     },
     {
-        "question": "Classic Question #2",
-        "answer": "answer"
+        "question": "How many claps are there in the theme tune?",
+        "answer": "4"
+    },
+    {
+        "question": "How many long stemmed roses did Ross send to Emily?",
+        "answer": "72"
+    },
+    {
+        "question": "What was the name of the comic Phoebe stole from Ross when she mugged him as a teenager?",
+        "answer": "Science Boy"
+    },
+    {
+        "question": "What's Joey's fake name?",
+        "answer": "Ken Adams"
+    },
+    {
+        "question": "What is the name of Rachel's boss who Chandler dates?",
+        "answer": "Joanna"
+    },
+    {
+        "question": "Where did Carol meet Susan?",
+        "answer": "Gym"
+    },
+    {
+        "question": "What does Phoebe initially change her name to after marrying Mike?",
+        "answer": "Princess Consuela Bananahammock"
+    },
+    {
+        "question": "Chandler and Ross were once thrown out of a concert by which band?",
+        "answer": "Wham!"
+    },
+    {
+        "question": "What was Mike's profession before turning professional pianist?",
+        "answer": "Lawyer"
+    },
+    {
+        "question": "What was the name of Chandler's roomate Eddie's fish?",
+        "answer": "Buddy"
+    },
+    {
+        "question": "What was the name of Ross and Chandler's band?",
+        "answer": "Way No Way"
+    },
+    {
+        "question": "What product is advertised on the back of the Playboy in which Ross' joke is printed?",
+        "answer": "Grand Marnier"
+    },
+    {
+        "question": "What is Joey's PIN number?",
+        "answer": "5639"
+    },
+    {
+        "question": "How many times did Monica's date see Star Wars?",
+        "answer": "317"
+    },
+    {
+        "question": "Which part of her body has Rachel has plastic surgery on?",
+        "answer": "Nose"
+    },
+    {
+        "question": "Which state do Ross and Emily end up in after their first date?",
+        "answer": "Vermont"
+    },
+    {
+        "question": "What does Treeger, the super, think that Joey's nickname is?",
+        "answer": "Chick"
+    },
+    {
+        "question": "What nationality is Joey 1/16th?",
+        "answer": "1/16"
+    },
+    {
+        "question": "What advertising slogan did Ross claim to have invented?",
+        "answer": "Got Milk?"
     }
 ]

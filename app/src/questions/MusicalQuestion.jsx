@@ -1,6 +1,6 @@
-import React, { PureComponent } from "react";
+import React, { Component } from "react";
 
-export class MusicalQuestion extends PureComponent {
+export class MusicalQuestion extends Component {
     state = {
         submittedAnswer: "",
     };
@@ -41,19 +41,29 @@ export class MusicalQuestion extends PureComponent {
         const { question, fileName } = this.props.challenge;
 
         return (
-            <div>
-                <label>
-                    {question}
-                    <input
-                        name="submittedAnswer"
-                        type="text"
-                        value={this.state.submittedAnswer}
-                        onChange={this.handleInputChange}
-                        onKeyPress={this.handleKeyPressed}
-                    />
-                    <audio src={`./playlist/${fileName}`} />
-                    <button onClick={this.submitAnswer}>Sumbit answer</button>
-                </label>
+            <div className="flex flex-column items-center">
+                <h2>Catégorie: Question musical</h2>
+                <div className="flex flex-column items-center">
+                    <h3 className="mw7">{question}</h3>
+                    <label className="mb3">
+                        <span className="mr2">Réponse:</span>
+                        <input
+                            autoFocus
+                            name="submittedAnswer"
+                            type="text"
+                            value={this.state.submittedAnswer}
+                            onChange={this.handleInputChange}
+                            onKeyPress={this.handleKeyPressed}
+                        />
+                        <audio autoPlay src={`./playlist/${fileName}`} />
+                    </label>
+                    <button
+                        className="f6 link dim ba ph3 pv2 mb2 dib light-green bg-dark-gray"
+                        onClick={this.submitAnswer}
+                    >
+                        Soumettre la réponse
+                    </button>
+                </div>
             </div>
         );
     }

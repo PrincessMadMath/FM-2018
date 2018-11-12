@@ -1,12 +1,57 @@
 [
     {
-        "question": "Multiple - Question #1",
-        "answer": "answer",
-        "others": ["no", "nop!", "sup!"]
+        "question": "In the first ever episode Rachel ran away from her wedding to Barry. What was Barry's surname?",
+        "answer": "Farber",
+        "others": ["Felcher", "Fromer", "Filcher"]
     },
     {
-        "question": "Multiple - Question #2",
-        "answer": "answer",
-        "others": ["no", "nop!", "sup!"]
+        "question": "What was the name of the play Joey and Kate star in?",
+        "answer": "Boxing Day",
+        "others": ["Going Down", "Noises Off", "Up In The Sky"]
+    },
+    {
+        "question": "What number was Monica's apartment (after season one)?",
+        "answer": "20",
+        "others": ["9", "32", "19"]
+    },
+    {
+        "question": "What did Monica and Chandler call their twins?",
+        "answer": "Jack and Erica",
+        "others": ["Chandler and Erica", "Jack and Judy", "Joey and Jack"]
+    },
+    {
+        "question": "The opening credits of which season saw the entire cast have Arquette added onto their names?",
+        "answer": "Season 6",
+        "others": ["Season 4", "Season 7", "Season 8"]
+    },
+    {
+        "question": "What magazine was sent to 'Miss Chanandler Bong?",
+        "answer": "TV Guide",
+        "others": ["Time", "National Geographic", "Good Housekeeping"]
+    },
+    {
+        "question": "Who did Joey act as a butt double for?",
+        "answer": "Al Pacino",
+        "others": ["Robert De Niro", "Andy Garcia", "Gary Oldman"]
+    },
+    {
+        "question": "What word did Rachel spell wrong on her CV? ",
+        "answer": "Computer",
+        "others": ["Waitress", "Coffee", "Rachel"]
+    },
+    {
+        "question": "In the episode where Ross is trying to list all the states, which one does he forget?",
+        "answer": "Delaware",
+        "others": ["Nevada", "South Dakota", "West Virginia"]
+    },
+    {
+        "question": "What language does Ross attempt to learn in order to secure an apartment for Rachel?",
+        "answer": "Dutch",
+        "others": ["German", "Polish", "Finish"]
+    },
+    {
+        "question": "What does Ross buy Ugly Naked Guy as a bribe when trying to buy his apartment?",
+        "answer": "Basket of muffins",
+        "others": ["Basket of cookies", "Basket of scones", "Basket of cheese"]
     }
 ]

@@ -11,15 +11,22 @@ export const MutipleChoice = ({ challenge, onAnswer }) => {
     }
 
     return (
-        <div>
-            <span>{question}</span>
-            <ul>
-                {options.map(x => (
-                    <li key={x}>
-                        <button onClick={() => submitAnswer(x)}>{x}</button>
-                    </li>
-                ))}
-            </ul>
+        <div className="flex flex-column items-center">
+            <h2>Catégorie: Choix de réponse</h2>
+            <div className="flex flex-column items-center">
+                <h3 className="mw7">{question}</h3>
+                <div className="flex flex-column flex-wrap mw6 items-center">
+                    {options.map(x => (
+                        <button
+                            key={x}
+                            onClick={() => submitAnswer(x)}
+                            className="f5 link dim ba ph3 pv2 mb2 dib light-green bg-dark-gray w5"
+                        >
+                            {x}
+                        </button>
+                    ))}
+                </div>
+            </div>
         </div>
     );
 };
