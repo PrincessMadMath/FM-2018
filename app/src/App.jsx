@@ -11,7 +11,8 @@ import { MutipleChoice } from "./questions/MutipleChoice.jsx";
 import { ClassicQuestion } from "./questions/ClassicQuestion.jsx";
 import { MusicalQuestion } from "./questions/MusicalQuestion.jsx";
 
-const successThreshold = 40;
+const numberOfQuestion = 20;
+const successThreshold = 16;
 const timeOut = 30;
 
 class App extends Component {
@@ -44,7 +45,7 @@ class App extends Component {
 
         this.setState({
             currentQuestionIndex: 0,
-            questions: shuffle(quiz),
+            questions: shuffle(quiz).slice(1, numberOfQuestion + 1),
         });
     }
 

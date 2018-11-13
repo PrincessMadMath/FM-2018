@@ -98,5 +98,120 @@
         "question": "Song name song?",
         "answer": "Darude",
         "fileName": "darude.mp3"
+    },
+    {
+        "question": "Which TV series?",
+        "answer": "Orange is the new black",
+        "fileName": "orange.mp3"
+    },
+    {
+        "question": "Which TV series?",
+        "answer": "The Walking Dead",
+        "fileName": "dead.mp3"
+    },
+    {
+        "question": "Song name? (no ')",
+        "answer": "Stayin alive",
+        "fileName": "dead.mp3"
+    },
+    {
+        "question": "Song name?",
+        "answer": "It's now or never",
+        "fileName": "never.mp3"
+    },
+    {
+        "question": "Song name?",
+        "answer": "Call me",
+        "fileName": "callme.mp3"
+    },
+    {
+        "question": "Song name?",
+        "answer": "Physical",
+        "fileName": "physical.mp3"
+    },
+    {
+        "question": "Song name?",
+        "answer": "Jump",
+        "fileName": "jump.mp3"
+    },
+    {
+        "question": "Song name?",
+        "answer": "Cherry Pie",
+        "fileName": "cherry.mp3"
+    },
+    {
+        "question": "Song name?",
+        "answer": "Pour Some Sugar On Me",
+        "fileName": "sugar.mp3"
+    },
+    {
+        "question": "Song name?",
+        "answer": "Baby got back",
+        "fileName": "back.mp3"
+    },
+    {
+        "question": "Song name?",
+        "answer": "Boom boom pow",
+        "fileName": "boom.mp3"
+    },
+    {
+        "question": "Song name?",
+        "answer": "Hey Ya!",
+        "fileName": "hey.mp3"
+    },
+    {
+        "question": "Song name?",
+        "answer": "Lose Yourself",
+        "fileName": "lose.mp3"
+    },
+    {
+        "question": "Song name?",
+        "answer": "Despacito",
+        "fileName": "des.mp3"
+    },
+    {
+        "question": "Song name?",
+        "answer": "Shape of you",
+        "fileName": "shape.mp3"
+    },
+    {
+        "question": "Song name?",
+        "answer": "Call Me Maybe",
+        "fileName": "callmemaybe.mp3"
+    },
+    {
+        "question": "Song name?",
+        "answer": "Royals",
+        "fileName": "royals.mp3"
+    },
+    {
+        "question": "Song name?",
+        "answer": "Chandelier",
+        "fileName": "chandelier.mp3"
+    },
+    {
+        "question": "Song name?",
+        "answer": "Wrecking Ball",
+        "fileName": "Wrecking.mp3"
+    },
+    {
+        "question": "Song name?",
+        "answer": "Jizz In Pants",
+        "fileName": "jizz.mp3"
+    },
+    {
+        "question": "Song name?",
+        "answer": "Never Gonna Give You Up",
+        "fileName": "rick.mp3"
+    },
+    {
+        "question": "Song name?",
+        "answer": "Saskatchewan",
+        "fileName": "sas.mp3"
+    },
+    {
+        "question": "Song name?",
+        "answer": "Je veux de la lumière",
+        "fileName": "lumiere.mp3"
     }
 ]
