@@ -3,17 +3,21 @@
     "version": "0.1.0",
     "private": true,
     "dependencies": {
+        "gh-pages": "^2.0.1",
         "react": "^16.6.1",
         "react-countdown-clock": "^2.5.0",
         "react-dom": "^16.6.1",
         "react-scripts": "2.1.1",
         "react-toastify": "^4.4.2"
     },
+    "homepage": "https://PrincessMadMath.github.io/FM-2018",
     "scripts": {
         "start": "react-scripts start",
         "build": "react-scripts build",
         "test": "react-scripts test",
-        "eject": "react-scripts eject"
+        "eject": "react-scripts eject",
+        "predeploy": "npm run build",
+        "deploy": "gh-pages -d build"
     },
     "eslintConfig": {
         "extends": "react-app"

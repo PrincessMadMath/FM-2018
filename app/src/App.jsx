@@ -147,7 +147,9 @@ class App extends Component {
         if (sucessCount === successThreshold) {
             return (
                 <div>
-                    <main>Le cadeau se trouve (pas encore livré lol)</main>
+                    <main>
+                        Le cadeau se trouve dans le tas de papier de toilette.
+                    </main>
                 </div>
             );
         }
