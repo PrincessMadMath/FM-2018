@@ -23,6 +23,10 @@ class App extends Component {
     };
 
     componentDidMount() {
+        this.reset();
+    }
+
+    reset = () => {
         const quiz = [];
 
         const multipleQuestions = multiple.map(x => ({
@@ -45,9 +49,10 @@ class App extends Component {
 
         this.setState({
             currentQuestionIndex: 0,
+            sucessCount: 0,
             questions: shuffle(quiz).slice(1, numberOfQuestion + 1),
         });
-    }
+    };
 
     handleAnswer = hasSucceed => {
         if (hasSucceed) {
@@ -73,12 +78,7 @@ class App extends Component {
     };
 
     retry = () => {
-        this.setState(prevState => {
-            return {
-                currentQuestionIndex: 0,
-                sucessCount: 0,
-            };
-        });
+        this.reset();
     };
 
     renderQuestion = question => {
