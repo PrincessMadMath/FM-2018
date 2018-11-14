@@ -4,6 +4,7 @@
     "private": true,
     "dependencies": {
         "gh-pages": "^2.0.1",
+        "netlify-cli": "^2.2.1",
         "react": "^16.6.1",
         "react-countdown-clock": "^2.5.0",
         "react-dom": "^16.6.1",
